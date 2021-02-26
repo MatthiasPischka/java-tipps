@@ -8,4 +8,8 @@ Blog-Eintrag ist ein Modul. Du kannst somit das gesamte Projekt per Git
 klonen und anschließend die root-pom mit deiner IDE als Maven Projekt
 öffnen.
 
+**Themenübersicht:**
+* Initialisierung von Listen in einer Zeile
+* JUnit 5 - Erwartete Exceptions
+
 Matthias Pischka
